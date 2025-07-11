@@ -1,0 +1,30 @@
+https://github.com/cachac/nginxLabs
+https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/
+https://learning.codefresh.io/
+
+https://github.com/cachac/cicdlabs
+
+Herramienta de K8s
+https://github.com/hjacobs/kube-ops-view
+kube lents
+flaggers 
+
+GitHub
+Token: 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
+
+
+http://172.176.94.203:30080/
+admin
+Argo Password: iTgoafO7AsNo1BzJ
+
+argocd login 172.176.94.203:30080  --insecure --grpc-web --username admin --password iTgoafO7AsNo1BzJ
+
+
+https://github.com/fercanap/CICD-Cenfotec-/blob/main/09.Actions%20Practice.md
+
+
+
+git tag -m "Docker tag version" -a 5.0.0
+git add .
+git commit -m "git hub workflow - Final tag version"
+git push origin stage  --tags
